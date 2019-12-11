@@ -1,4 +1,4 @@
-# run_analysis
+# Run_analysis
 Getting and Cleaning Data Course Project Coursera
 
 # Getting and Cleaning Data - peer assessment project
